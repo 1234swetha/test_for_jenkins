@@ -1,3 +1,2 @@
 print('dfffssssssssssssssssssssssssssssssss')
-print('fnefjkhgbbrhgejfkjsdjgdjgdjg')
-print('ewkjrheifjdkgvndfnvfdkgvkdfngfdngfd')
+print('kjtrhigmkngjkkjlhk')
